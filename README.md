@@ -7,7 +7,7 @@ Certified Tech professional.
 
 ## Objective
 
-Welcome to my portfolio, this is meant to document some of the non-coding projects i've been doing, anything I can't just paste the code in.
+This is meant to document some of the non-coding projects i've been doing, anything I can't just paste the code in.
 
 
 ## Tools
