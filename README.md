@@ -4,7 +4,7 @@
 Certified Tech professional.
 
 
-This is meant to document some of the non-coding projects i've been doing, anything I can't just paste the code in.
+This Page is meant to document some of the projects i've been working on.
 
 
 ## Tools
