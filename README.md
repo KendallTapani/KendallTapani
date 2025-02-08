@@ -58,7 +58,8 @@ This should give a good understanding of my skillset, and show the more technica
 
 ---
 
-
+<br/>
+<br/>
 ## Technical Skills & Projects
 
 ### Scripting & Automation
