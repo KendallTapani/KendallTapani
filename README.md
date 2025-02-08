@@ -11,7 +11,7 @@ This should give a good understanding of my skillset, and show the more technica
 <br/>
 <br/>
 <br/>
-#### Professional Certifications
+### Professional Certifications
 
 [View all certifications on Credly](https://www.credly.com/users/kendall-tapani) (Or ctrl + click picture)
 
