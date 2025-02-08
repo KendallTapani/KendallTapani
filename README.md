@@ -64,7 +64,7 @@ This should give a good understanding of my skillset, and show the more technica
 # Technical Skills & Projects
 <br/>
 
-### Scripting & Automation
+### 1. Scripting & Automation
 
 This section showcases all of the scripting and automation tools I've built, mainly using Powershell and Python.
 
@@ -79,7 +79,7 @@ This section showcases all of the scripting and automation tools I've built, mai
 <br/>
 
 
-### Enterprise Azure Infrastructure Setup
+### 2. Enterprise Azure Infrastructure Setup
 ![image](https://github.com/user-attachments/assets/a5209208-090a-42f7-ab04-559caab862d4)
 
 
