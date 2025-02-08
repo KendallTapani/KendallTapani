@@ -11,12 +11,18 @@ This Page is meant to document some of the projects i've been working on.
 
 ### Network
 <div style="background-color: #1B1B1B; padding: 20px; border-radius: 8px;">
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" 
-         style="height: 28px; margin-right: 10px; text-decoration: none;" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" 
-         style="height: 28px; margin-right: 10px; text-decoration: none;" />
-    <img src="https://github.com/user-attachments/assets/b5a6e732-6051-4be4-bd2f-17a7fa02c0dc" 
-         style="height: 28px; text-decoration: none;" />
+    <a href="https://www.wireshark.org/" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" 
+             style="height: 28px; vertical-align: middle;" />
+    </a>
+    <a href="https://suricata.io/" style="text-decoration: none; margin-right: 10px;">
+        <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" 
+             style="height: 28px; vertical-align: middle;" />
+    </a>
+    <a href="https://www.solarwinds.com/" style="text-decoration: none;">
+        <img src="https://github.com/user-attachments/assets/b5a6e732-6051-4be4-bd2f-17a7fa02c0dc" 
+             style="height: 28px; vertical-align: middle;" />
+    </a>
 </div>
 
 ### Endpoint
