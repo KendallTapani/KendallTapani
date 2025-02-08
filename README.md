@@ -13,7 +13,8 @@ This Page is meant to document some of the projects i've been working on.
 <div>
     <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
-    <a href="https://www.solarwinds.com/"><img src="C:\Users\Butler\Pictures\Screenshot 2025-02-07 171328.png" /></a>
+    <a href="https://www.solarwinds.com/"><img src=![Screenshot 2025-02-07 171328](https://github.com/user-attachments/assets/b5a6e732-6051-4be4-bd2f-17a7fa02c0dc)
+ /></a>
 </div>
 
 ### Endpoint
