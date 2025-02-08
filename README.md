@@ -34,6 +34,7 @@ This should give a good understanding of my skillset, and show the more technica
                  width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
         </picture>
     </a>
+    <br/>
     <a href="https://www.credly.com/badges/20e58b5b-e424-49eb-8d18-e0e8f9a607b5">
         <picture>
             <img src="https://github.com/user-attachments/assets/83845f96-8cbe-4749-871b-631cf5ce29bc" 
