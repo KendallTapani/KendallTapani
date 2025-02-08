@@ -50,6 +50,37 @@ This Page is meant to document some of the projects i've been working on.
     </a>
 </div>
 
+## Scripting & Automation
+
+### Job Search Automation
+
+The job market can be overwhelming, with numerous platforms and positions to track. I've developed several automation scripts to streamline the job search process, making it more efficient and organized.
+
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
+    <a href="https://github.com/KendallTapani/Scripting-and-Automation/tree/main" style="text-decoration: none; color: #0366d6;">
+        <h4 style="margin-top: 0;">🤖 Job Search Automation Repository</h4>
+        <p style="color: #24292e;">A collection of PowerShell and AutoHotkey scripts designed to automate repetitive tasks in the job search process. These scripts help streamline application tracking, resume customization, and job listing management.</p>
+        <span style="display: inline-flex; align-items: center; color: #0366d6;">
+            View Repository 
+            <span style="margin-left: 5px;">→</span>
+        </span>
+    </a>
+</div>
+
+#### Featured Scripts:
+
+<div style="display: flex; flex-direction: column; gap: 15px;">
+    <div style="border-left: 3px solid #0366d6; padding-left: 15px;">
+        <h4 style="margin: 0; color: #24292e;">Job Application Tracker</h4>
+        <p style="margin: 5px 0; color: #586069;">PowerShell script that automatically logs job applications to a CSV file, including company name, position, application date, and status. Helps maintain an organized record of your job search journey.</p>
+    </div>
+
+    <div style="border-left: 3px solid #0366d6; padding-left: 15px;">
+        <h4 style="margin: 0; color: #24292e;">Resume Keyword Optimizer</h4>
+        <p style="margin: 5px 0; color: #586069;">AutoHotkey script that helps tailor your resume by analyzing job descriptions for keywords and suggesting relevant modifications. Improves resume matching with job requirements.</p>
+    </div>
+</div>
+
 
 ## Projects
 - Detection Lab
