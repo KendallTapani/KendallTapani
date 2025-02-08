@@ -7,7 +7,7 @@ Tech professional.
 
 This Page is meant to document some of the projects i've been working on.
 
-
+-
 
 #### Professional Certifications
 
@@ -69,13 +69,6 @@ This section showcases all of the scripting and automation tools I've built, mai
     </h4>
 </div>
 
-
-### Featured Projects
-
-- Detection Lab
-- SOC Automation Project
-- AI App Template
-- Elevenlabs AI App text to speech, and Text to Sound Effect
 
 
 ### Network Tools
