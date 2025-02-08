@@ -54,19 +54,18 @@ This Page is meant to document some of the projects i've been working on.
 
 ## Scripting & Automation
 
-### 1. Job Search Automation
-
 Welcome to my automation repository, where I showcase various PowerShell and AutoHotkey scripts designed to streamline workflows and increase productivity. These scripts represent my commitment to efficiency and problem-solving through automation.
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
-    <a href="https://github.com/KendallTapani/Scripting-and-Automation/tree/main" style="text-decoration: none; color: #0366d6;">
-        <h4 style="margin-top: 0;">🤖 Scripting & Automation Repository</h4>
-        <p style="color: #24292e;">Explore my collection of PowerShell and AutoHotkey scripts created to automate various tasks and enhance workflow efficiency. Each script is documented with clear instructions and use cases.</p>
-        <span style="display: inline-flex; align-items: center; color: #0366d6;">
-            View Repository 
-            <span style="margin-left: 5px;">→</span>
-        </span>
-    </a>
+    <h4 style="margin-top: 0;">
+        <a href="https://github.com/KendallTapani/Scripting-and-Automation/tree/main" style="text-decoration: none; color: #0366d6;">
+            🤖 Scripting & Automation Repository
+        </a>
+    </h4>
+    <p style="color: #24292e;">Explore my collection of PowerShell and AutoHotkey scripts created to automate various tasks and enhance workflow efficiency. Each script is documented with clear instructions and use cases.</p>
+    <span style="display: inline-flex; align-items: center; color: #586069;">
+        Primary tools: PowerShell, AutoHotkey
+    </span>
 </div>
 
 
