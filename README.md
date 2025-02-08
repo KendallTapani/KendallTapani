@@ -51,6 +51,12 @@ This Page is meant to document some of the projects i've been working on.
 </div>
 
 
+## Projects
+- Detection Lab
+- SOC Automation Project
+- AI App Template
+- Elevenlabs AI App text to speech, and Text to Sound Effect.- 
+
 
 
 ### Network Tools
@@ -77,8 +83,3 @@ This Page is meant to document some of the projects i've been working on.
 </div>
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
-- AI App Template
-- Elevenlabs AI App text to speech, and Text to Sound Effect.
