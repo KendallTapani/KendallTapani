@@ -7,7 +7,7 @@ Tech professional.
 
 This Page is meant to document some of the projects i've been working on.
 
-#
+
 
 #### Professional Certifications
 
