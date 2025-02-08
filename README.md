@@ -6,6 +6,7 @@ Tech professional.
 
 
 This Page is meant to document some of the projects i've been working on.
+See my various scripting tools I've built, systems I've set up, and apps I've built.
 <br/>
 <br/>
 <br/>
