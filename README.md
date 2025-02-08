@@ -54,7 +54,7 @@ This Page is meant to document some of the projects i've been working on.
 
 ## Scripting & Automation
 
-Welcome to my automation repository, where I showcase various PowerShell and AutoHotkey scripts designed to streamline workflows and increase productivity. These scripts represent my commitment to efficiency and problem-solving through automation.
+This section showcases all of the scripting and automation tools I've built, mainly using Powershell and Python.
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
     <h4 style="margin-top: 0;">
@@ -62,10 +62,6 @@ Welcome to my automation repository, where I showcase various PowerShell and Aut
             🤖 Scripting & Automation Repository
         </a>
     </h4>
-    <p style="color: #24292e;">Explore my collection of PowerShell and AutoHotkey scripts created to automate various tasks and enhance workflow efficiency. Each script is documented with clear instructions and use cases.</p>
-    <span style="display: inline-flex; align-items: center; color: #586069;">
-        Primary tools: PowerShell, AutoHotkey
-    </span>
 </div>
 
 
