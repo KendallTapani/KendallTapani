@@ -56,8 +56,6 @@ This Page is meant to document some of the projects i've been working on.
 
 ### 1. Job Search Automation
 
-## Scripting & Automation
-
 Welcome to my automation repository, where I showcase various PowerShell and AutoHotkey scripts designed to streamline workflows and increase productivity. These scripts represent my commitment to efficiency and problem-solving through automation.
 
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
