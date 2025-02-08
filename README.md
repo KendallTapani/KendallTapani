@@ -1,4 +1,5 @@
 # Kendall Tapani
+
 <a href="https://www.linkedin.com/in/kendalltapani/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Tech professional.
@@ -7,8 +8,10 @@ Tech professional.
 This Page is meant to document some of the projects i've been working on.
 
 
+---
 
-### Certifications
+## Professional Certifications
+
 [View all certifications on Credly](https://www.credly.com/users/kendall-tapani) (Or ctrl + click picture)
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
@@ -51,8 +54,11 @@ This Page is meant to document some of the projects i've been working on.
 </div>
 
 
+---
 
-## Scripting & Automation
+## Technical Skills & Projects
+
+### Scripting & Automation
 
 This section showcases all of the scripting and automation tools I've built, mainly using Powershell and Python.
 
@@ -65,15 +71,16 @@ This section showcases all of the scripting and automation tools I've built, mai
 </div>
 
 
-## Projects
+### Featured Projects
+
 - Detection Lab
 - SOC Automation Project
 - AI App Template
-- Elevenlabs AI App text to speech, and Text to Sound Effect.- 
-
+- Elevenlabs AI App text to speech, and Text to Sound Effect
 
 
 ### Network Tools
+
 <div style="background-color: #1B1B1B; padding: 20px; border-radius: 8px;">
     <a href="https://www.wireshark.org/" style="text-decoration: none; margin-right: 10px;">
         <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" 
@@ -89,11 +96,12 @@ This section showcases all of the scripting and automation tools I've built, mai
     </a>
 </div>
 
-### SIEM
+
+### SIEM Tools
+
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
 
