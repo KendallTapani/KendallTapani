@@ -7,7 +7,7 @@ Tech professional.
 
 This Page is meant to document some of the projects i've been working on.
 
-See the various scripting tools I've built, systems I've set up, and whatever else I happened to put in here. This should give a good understanding of my skillset, and show some of the more technical problems I've solved.
+See the various scripting tools I've built, systems I've set up, and whatever else I happened to put in here. This should give a good understanding of my skillset, and show the more technical things I've built. Specifically, check out the Automation section, where I streamline many of the repetitive jobs I have to do.
 <br/>
 <br/>
 <br/>
