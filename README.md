@@ -35,7 +35,7 @@ This Page is meant to document some of the projects i've been working on.
 </div>
 
 ## Certifications
-[View all certifications on Credly](https://www.credly.com/users/kendall-tapani) Or ctrl + click picture for individual cert
+[View all certifications on Credly](https://www.credly.com/users/kendall-tapani) (Or ctrl + click picture)
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
     <a href="https://www.credly.com/badges/65bef3cc-f0a6-432d-ab68-b553cc151eee">
