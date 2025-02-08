@@ -10,7 +10,7 @@ This Page is meant to document some of the projects i've been working on.
 
 ---
 
-## Professional Certifications
+### Professional Certifications
 
 [View all certifications on Credly](https://www.credly.com/users/kendall-tapani) (Or ctrl + click picture)
 
