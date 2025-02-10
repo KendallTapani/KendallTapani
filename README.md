@@ -2,10 +2,7 @@
 
 <a href="https://www.linkedin.com/in/kendalltapani/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Tech professional.
-
-
-See the various scripting tools I've built, systems I've set up, and whatever else I happened to put in here. 
+Tech professional. 
 
 This should give a good understanding of my skillset, and show the more technical things I've built. Specifically, check out the Automation section, where I streamline many of the repetitive jobs I have to do.
 <br/>
