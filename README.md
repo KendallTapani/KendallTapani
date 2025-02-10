@@ -86,49 +86,40 @@ This section documents an enterprise Azure Infrastructure Setup
         </a>
     </h4>
     
-####Core Infrastructure Components:
+## Enterprise Azure Infrastructure Setup
 
-Hub-and-Spoke Network Topology
+This section documents an enterprise Azure Infrastructure Setup.
 
-Hub VNET (10.0.0.0/16) serving as the central connection point
-Two spoke networks:
+### Core Infrastructure Components
 
-Spoke1-VNET (10.1.0.0/16) for production
-Spoke2-VNET (10.2.0.0/16) for development
+#### 1. Hub-and-Spoke Network Topology
+- Hub VNET (10.0.0.0/16) as central connection point
+- Spoke1-VNET (10.1.0.0/16) for production
+- Spoke2-VNET (10.2.0.0/16) for development
 
+#### 2. Hub VNET Components
+- Gateway Subnet (10.0.0.0/24)
+- Azure Firewall Subnet (10.0.1.0/24)
+- Bastion Subnet (10.0.2.0/24)
+- Management Subnet (10.0.3.0/24)
 
+#### 3. Security Infrastructure
+- Azure Firewall in the hub for centralized security
+- Network Security Groups (NSGs) on all subnets
+- Azure Bastion for secure VM access
+- Custom route tables forcing traffic through the firewall
 
-
-Hub VNET Components
-
-Gateway Subnet (10.0.0.0/24)
-Azure Firewall Subnet (10.0.1.0/24)
-Bastion Subnet (10.0.2.0/24)
-Management Subnet (10.0.3.0/24)
-
-
-Security Infrastructure
-
-Azure Firewall in the hub for centralized security
-Network Security Groups (NSGs) on all subnets
-Azure Bastion for secure VM access
-Custom route tables forcing traffic through the firewall
-
-
-Spoke Network Configuration
+#### 4. Spoke Network Configuration
 Each spoke has:
+- Application Subnet (/24)
+- Data Subnet (/24)
+- Dedicated route tables
+- Specific NSG rules
 
-Application Subnet (/24)
-Data Subnet (/24)
-Dedicated route tables
-Specific NSG rules
-
-
-Connectivity
-
-VNET peering between hub and spokes
-Controlled traffic flow through the firewall
-Secure remote access via Bastion
+#### 5. Connectivity
+- VNET peering between hub and spokes
+- Controlled traffic flow through the firewall
+- Secure remote access via Bastion
 
 
 ### Network Tools
