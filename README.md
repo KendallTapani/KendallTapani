@@ -86,7 +86,6 @@ This section documents an enterprise Azure Infrastructure Setup
         </a>
     </h4>
 
-### Core Infrastructure Components
 
 #### 1. Hub-and-Spoke Network Topology
 - Hub VNET (10.0.0.0/16) as central connection point
