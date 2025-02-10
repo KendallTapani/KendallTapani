@@ -52,7 +52,8 @@ This should give a good understanding of my skillset, and show the more technica
     </a>
 </div>
 <br/>
-<br/>
+
+
 ---
 
 <br/>
