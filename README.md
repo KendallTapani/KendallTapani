@@ -86,7 +86,7 @@ This section documents an enterprise Azure Infrastructure Setup
         </a>
     </h4>
     
-Core Infrastructure Components:
+####Core Infrastructure Components:
 
 Hub-and-Spoke Network Topology
 
