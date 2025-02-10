@@ -7,8 +7,6 @@ Tech professional.
 This portfolio should give a good understanding of my skillset, and show the more technical things I've built. Specifically, check out the Automation section, where I streamline many of the repetitive jobs I have to do.
 <br/>
 <br/>
-<br/>
-### Professional Certifications
 
 [View all certifications](https://www.credly.com/users/kendall-tapani) (Or ctrl + click picture)
 
