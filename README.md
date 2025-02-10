@@ -86,7 +86,49 @@ This section documents an enterprise Azure Infrastructure Setup
         </a>
     </h4>
     
-![image](https://github.com/user-attachments/assets/a5209208-090a-42f7-ab04-559caab862d4)
+Core Infrastructure Components:
+
+Hub-and-Spoke Network Topology
+
+Hub VNET (10.0.0.0/16) serving as the central connection point
+Two spoke networks:
+
+Spoke1-VNET (10.1.0.0/16) for production
+Spoke2-VNET (10.2.0.0/16) for development
+
+
+
+
+Hub VNET Components
+
+Gateway Subnet (10.0.0.0/24)
+Azure Firewall Subnet (10.0.1.0/24)
+Bastion Subnet (10.0.2.0/24)
+Management Subnet (10.0.3.0/24)
+
+
+Security Infrastructure
+
+Azure Firewall in the hub for centralized security
+Network Security Groups (NSGs) on all subnets
+Azure Bastion for secure VM access
+Custom route tables forcing traffic through the firewall
+
+
+Spoke Network Configuration
+Each spoke has:
+
+Application Subnet (/24)
+Data Subnet (/24)
+Dedicated route tables
+Specific NSG rules
+
+
+Connectivity
+
+VNET peering between hub and spokes
+Controlled traffic flow through the firewall
+Secure remote access via Bastion
 
 
 ### Network Tools
