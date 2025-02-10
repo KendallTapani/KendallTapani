@@ -104,18 +104,6 @@ This section documents an enterprise Azure Infrastructure Setup
 - Azure Bastion for secure VM access
 - Custom route tables forcing traffic through the firewall
 
-#### 4. Spoke Network Configuration
-Each spoke has:
-- Application Subnet (/24)
-- Data Subnet (/24)
-- Dedicated route tables
-- Specific NSG rules
-
-#### 5. Connectivity
-- VNET peering between hub and spokes
-- Controlled traffic flow through the firewall
-- Secure remote access via Bastion
-
 
 ### Network Tools
 
