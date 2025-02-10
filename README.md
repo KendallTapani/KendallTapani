@@ -84,7 +84,6 @@ This section documents an enterprise Azure Infrastructure Setup
     Enterprise Azure Infrastructure Setup
 </a>
 <br/>
-
 ![image](https://github.com/user-attachments/assets/a5209208-090a-42f7-ab04-559caab862d4)
 <br/>
 
