@@ -77,7 +77,9 @@ This section showcases all of the scripting and automation tools I've built, mai
 
 ### 2. Enterprise Azure Infrastructure Setup
 ![image](https://github.com/user-attachments/assets/a5209208-090a-42f7-ab04-559caab862d4)
-
+        <a href="https://github.com/KendallTapani/Azure-Infrastructure-Setup" style="text-decoration: none; color: #0366d6;">
+            Enterprise Azure Infrastructure Setup
+        </a>
 <br/>
 
 ### Network Tools
