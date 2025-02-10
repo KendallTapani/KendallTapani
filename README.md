@@ -81,7 +81,7 @@ This section documents an enterprise Azure Infrastructure Setup
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
     <h4 style="margin-top: 0;">
         <a href="https://github.com/KendallTapani/Azure-Infrastructure-Setup" style="text-decoration: none; color: #0366d6;">
-            Enterprise Azure Infrastructure Setup
+            ☁️Enterprise Azure Infrastructure Setup
         </a>
     </h4>
 
