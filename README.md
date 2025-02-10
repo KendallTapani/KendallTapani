@@ -85,10 +85,6 @@ This section documents an enterprise Azure Infrastructure Setup
             Enterprise Azure Infrastructure Setup
         </a>
     </h4>
-    
-## Enterprise Azure Infrastructure Setup
-
-This section documents an enterprise Azure Infrastructure Setup.
 
 ### Core Infrastructure Components
 
