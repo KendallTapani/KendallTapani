@@ -54,9 +54,7 @@ This portfolio should give a good understanding of my skillset, and show the mor
 
 
 ---
-
-
-
+<br/>
 
 
 
