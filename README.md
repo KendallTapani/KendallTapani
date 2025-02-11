@@ -105,6 +105,8 @@ This section documents an enterprise Azure Infrastructure Setup
 <br/>
 <br/>
 <br/>
+
+
 ### Network Tools
 <div style="background-color: #1B1B1B; padding: 20px; border-radius: 8px;">
     <a href="https://www.wireshark.org/" style="text-decoration: none; margin-right: 10px;">
