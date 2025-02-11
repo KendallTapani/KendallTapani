@@ -112,6 +112,8 @@ This section documents an enterprise Azure Infrastructure Setup
 - Setup a working Active Directory system, with large filebase, and different permissions for each user
 - Built automation scripts in powershell and Python used in everyday work environment.
 
+<br/>
+
 
 ### **** 4. Full Home network Build in Cisco Packet Tracer
 
