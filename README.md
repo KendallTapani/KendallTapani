@@ -116,13 +116,10 @@ This section documents an enterprise Azure Infrastructure Setup
 ### **** 4. Full Home network Build in Cisco Packet Tracer
 
 
+<br/>
+<br/>
+<br/>
 ### Network Tools
-
-<br/>
-<br/>
-<br/>
-
-
 <div style="background-color: #1B1B1B; padding: 20px; border-radius: 8px;">
     <a href="https://www.wireshark.org/" style="text-decoration: none; margin-right: 10px;">
         <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" 
