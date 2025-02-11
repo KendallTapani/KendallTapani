@@ -106,14 +106,14 @@ This section documents an enterprise Azure Infrastructure Setup
 <br/>
 <br/>
 
-### ****Active Directory Environment Setup
+### **** 3. Active Directory Environment Setup
 - Setup a couple Windows Server 2019 devices in VMware
 - Create virtual networks and connect the servers to 5 different machines
 - Setup a working Active Directory system, with large filebase, and different permissions for each user
 - Built automation scripts in powershell and Python used in everyday work environment.
 
 
-### ****Full Home network Build in Cisco Packet Tracer
+### **** 4. Full Home network Build in Cisco Packet Tracer
 
 
 ### Network Tools
