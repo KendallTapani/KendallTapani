@@ -103,6 +103,9 @@ This section documents an enterprise Azure Infrastructure Setup
 - Azure Bastion for secure VM access
 - Custom route tables forcing traffic through the firewall
 
+<br/>
+<br/>
+
 
 ### Network Tools
 
