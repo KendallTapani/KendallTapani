@@ -90,6 +90,8 @@ This section documents an enterprise Azure Infrastructure Setup
 <br/>
 <br/>
 
+(Currently working on)
+
 ### **** 3. Active Directory Environment Setup
 - Setup a couple Windows Server 2019 devices in VMware
 - Create virtual networks and connect the servers to 5 different machines
@@ -100,7 +102,10 @@ This section documents an enterprise Azure Infrastructure Setup
 
 
 ### **** 4. Full Home network Build in Cisco Packet Tracer
-
+- Create a secure home network that isolates internet traffic from potential threats while allowing multiple devices to safely connect through both wired and wireless connections
+- Establish separate network segments (VLANs) that can keep different types of devices isolated - for example, keeping your work devices separate from entertainment systems, or creating a separate guest network that can't access your personal devices
+- Implement network services like DHCP to automatically assign IP addresses to new devices, NAT to allow all your devices to share one internet connection, and DNS to convert web addresses into IP addresses
+- Provide the foundation for advanced features like Quality of Service (QoS) to prioritize certain types of traffic (like video calls over general browsing), remote access to your home network, and network monitoring capabilities
 
 <br/>
 <br/>
