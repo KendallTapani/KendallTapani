@@ -58,9 +58,6 @@ This portfolio should give a good understanding of my skillset, and show some of
 
 
 ## Technical Skills & Projects
-
-### Homelab: 
-Windows Server 2022 + 10 Workstations, configured Active Directory, Group Policies, and roles.
 <br/>
 ### 1. Scripting & Automation
 
