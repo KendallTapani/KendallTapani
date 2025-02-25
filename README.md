@@ -95,7 +95,7 @@ This section documents an enterprise Azure Infrastructure Setup
 
 (Currently working on)
 
-### 3. On-Prem Windows Server Active Directory setup, with Networked machines, Domain Controllers, Admin accounts, and 1000+ users.
+### 3. On-Prem Windows Server Active Directory Homelab
 - Setup Windows Server 2022, installed DNS, DHCP, RDP, AD, etc.
 - Created a virtual network between the Server and the machines, Machines are all routed through the server, and can access internet, or the internal network.
 - Setup a working Active Directory system, with large filebase, and role-based permissions for 1000+ users.
