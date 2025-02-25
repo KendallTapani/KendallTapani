@@ -87,7 +87,7 @@ This section documents an enterprise Azure Infrastructure Setup
             ☁️Enterprise Azure Infrastructure Docs
         </a>
     </h4>
-
+</div>
 
 
 <br/>
@@ -96,6 +96,14 @@ This section documents an enterprise Azure Infrastructure Setup
 (Currently working on)
 
 ### 3. On-Prem Windows Server Active Directory Homelab
+<div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
+    <h4 style="margin-top: 0;">
+        <a href="https://github.com/KendallTapani/Windows-Server-Homelab" style="text-decoration: none; color: #0366d6;">
+            🌐Windows Server Homelab Setup Docs
+        </a>
+    </h4>
+</div>
+
 - Setup Windows Server 2022, installed DNS, DHCP, RDP, AD, etc.
 - Created a virtual network between the Server and the machines, Machines are all routed through the server, and can access internet, or the internal network.
 - Setup a working Active Directory system, with large filebase, and role-based permissions for 1000+ users.
