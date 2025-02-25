@@ -95,11 +95,11 @@ This section documents an enterprise Azure Infrastructure Setup
 
 (Currently working on)
 
-### **** 3. Active Directory Environment Setup
-- Setup a couple Windows Server 2019 devices in VMware
-- Create virtual networks and connect the servers to 5 different machines
-- Setup a working Active Directory system, with large filebase, and different permissions for each user
-- Built automation scripts in powershell and Python used in everyday work environment.
+### 3. On-Prem Windows Server Active Directory setup, with Networked machines, Domain Controllers, Admin accounts, and 1000+ users.
+- Setup Windows Server 2022, installed DNS, DHCP, RDP, AD, etc.
+- Created a virtual network between the Server and the machines, Machines are all routed through the server, and can access internet, or the internal network.
+- Setup a working Active Directory system, with large filebase, and role-based permissions for 1000+ users.
+- Built automation scripts in powershell and Python commonly implemented in the everyday work environment.
 
 <br/>
 
