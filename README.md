@@ -100,12 +100,6 @@ This section documents an enterprise Azure Infrastructure Setup
         </a>
     </h4>
 </div>
-
-- Setup Windows Server 2022, installed DNS, DHCP, RDP, AD, etc.
-- Created a virtual network between the Server and the machines, Machines are all routed through the server, and can access internet, or the internal network.
-- Setup a working Active Directory system, with large filebase, and role-based permissions for 1000+ users.
-- Built automation scripts in powershell and Python commonly implemented in the everyday work environment.
-
 <br/>
 
 
