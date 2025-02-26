@@ -58,7 +58,6 @@ This portfolio should give a good understanding of my skillset, and show some of
 
 
 ## Technical Skills & Projects
-<br/>
 
 ### 1. Scripting & Automation
 
