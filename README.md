@@ -90,7 +90,6 @@ This section documents an enterprise Azure Infrastructure Setup
 <br/>
 <br/>
 
-(Currently working on)
 
 ### 3. On-Prem Windows Server Active Directory Homelab
 <div style="background-color: #f6f8fa; padding: 20px; border-radius: 6px; margin: 20px 0;">
@@ -101,7 +100,7 @@ This section documents an enterprise Azure Infrastructure Setup
     </h4>
 </div>
 <br/>
-
+(Currently working on)
 
 ### **** 4. Full Home network Build in Cisco Packet Tracer
 - Create a secure home network that isolates internet traffic from potential threats while allowing multiple devices to safely connect through both wired and wireless connections
