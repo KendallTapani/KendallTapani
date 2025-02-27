@@ -100,6 +100,8 @@ This section documents an enterprise Azure Infrastructure Setup
     </h4>
 </div>
 <br/>
+<br/>
+
 (Currently working on)
 
 ### **** 4. Full Home network Build in Cisco Packet Tracer
