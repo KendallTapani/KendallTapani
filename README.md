@@ -1,13 +1,18 @@
 # Kendall Tapani
 
+&nbsp;
+
 <div align="left">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendalltapani/)
 
 </div>
 
+&nbsp;
+
 Tech professional with expertise in infrastructure, automation, and security.
 
+&nbsp;
 
 <div align="left">
   
@@ -15,6 +20,7 @@ Tech professional with expertise in infrastructure, automation, and security.
 
 </div>
 
+&nbsp;
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
     <a href="https://www.credly.com/badges/65bef3cc-f0a6-432d-ab68-b553cc151eee">
@@ -31,6 +37,8 @@ Tech professional with expertise in infrastructure, automation, and security.
     </a>
 </div>
 
+&nbsp;
+
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
     <a href="https://www.credly.com/badges/20e58b5b-e424-49eb-8d18-e0e8f9a607b5">
         <img src="https://github.com/user-attachments/assets/83845f96-8cbe-4749-871b-631cf5ce29bc" 
@@ -46,9 +54,11 @@ Tech professional with expertise in infrastructure, automation, and security.
     </a>
 </div>
 
+&nbsp;
 
 ## 🛠️ Technical Skills & Projects
 
+&nbsp;
 
 ### 1. 🤖 Scripting & Automation
 
@@ -60,6 +70,7 @@ Showcasing automation tools built with PowerShell and Python.
 
 </div>
 
+&nbsp;
 
 ### 2. ☁️ Enterprise Azure Infrastructure
 
@@ -71,6 +82,7 @@ Documentation of enterprise-level Azure infrastructure implementation.
 
 </div>
 
+&nbsp;
 
 ### 3. 🖥️ Windows Server Active Directory Homelab
 
@@ -80,6 +92,7 @@ Documentation of enterprise-level Azure infrastructure implementation.
 
 </div>
 
+&nbsp;
 
 ### 4. 🌐 Full Home Network Build (In Progress)
 > Building in Cisco Packet Tracer
@@ -89,9 +102,11 @@ Documentation of enterprise-level Azure infrastructure implementation.
 - **Network Services**: DHCP, NAT, and DNS implementation
 - **Advanced Features**: QoS implementation, remote access setup, and network monitoring
 
+&nbsp;
 
 ## 🔧 Tools & Technologies
 
+&nbsp;
 
 ### Network Tools
 
@@ -101,6 +116,7 @@ Documentation of enterprise-level Azure infrastructure implementation.
     <img src="https://github.com/user-attachments/assets/b5a6e732-6051-4be4-bd2f-17a7fa02c0dc" height="28" />
 </div>
 
+&nbsp;
 
 ### SIEM Tools
 
@@ -109,5 +125,3 @@ Documentation of enterprise-level Azure infrastructure implementation.
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
-
-
