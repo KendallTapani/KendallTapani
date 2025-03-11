@@ -55,6 +55,7 @@ Showcasing automation tools built with PowerShell and Python.
 
 </div>
 
+
 ### 2. ☁️ Enterprise Azure Infrastructure
 
 Documentation of enterprise-level Azure infrastructure implementation.
@@ -65,6 +66,7 @@ Documentation of enterprise-level Azure infrastructure implementation.
 
 </div>
 
+
 ### 3. 🖥️ Windows Server Active Directory Homelab
 
 <div align="left">
@@ -72,6 +74,7 @@ Documentation of enterprise-level Azure infrastructure implementation.
 [![Homelab Docs](https://img.shields.io/badge/📁_Windows_Server_Homelab_Docs-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KendallTapani/Windows-Server-Homelab)
 
 </div>
+
 
 ### 4. 🌐 Full Home Network Build (In Progress)
 > Building in Cisco Packet Tracer
@@ -84,14 +87,14 @@ Documentation of enterprise-level Azure infrastructure implementation.
 ## 🔧 Tools & Technologies
 
 ### Network Tools
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://github.com/user-attachments/assets/b5a6e732-6051-4be4-bd2f-17a7fa02c0dc" height="28" />
 </div>
 
 ### SIEM Tools
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
