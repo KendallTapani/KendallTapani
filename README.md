@@ -74,6 +74,8 @@ Documentation of enterprise-level Azure infrastructure implementation.
 
 ### 3. 🖥️ Windows Server Active Directory Homelab
 
+Documentation of a fully setup AD test environment, with Windows Server 2022, 5+ machines, and 1000+ users in Active directory.
+
 <div align="left">
   
 [![Homelab Docs](https://img.shields.io/badge/📁_Windows_Server_Homelab_Docs-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KendallTapani/Windows-Server-Homelab)
