@@ -133,3 +133,15 @@ Documentation of enterprise-level Azure infrastructure implementation.
     <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+
+&nbsp;
+
+### Scripting & Automation Tools
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Power_Automate-0066FF?&style=for-the-badge&logo=microsoft&logoColor=white" />
+</div>
