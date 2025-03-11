@@ -9,12 +9,12 @@ Tech professional with expertise in infrastructure, automation, and security.
 
 <div align="left">
   
-### 🏆 Certifications
+### Certifications
 [View All Certifications on Credly](https://www.credly.com/users/kendall-tapani)
 
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
     <a href="https://www.credly.com/badges/65bef3cc-f0a6-432d-ab68-b553cc151eee">
         <img src="https://github.com/user-attachments/assets/a1a4113d-3c39-4eac-9efe-2c32410a5fe4" 
              width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
@@ -28,7 +28,7 @@ Tech professional with expertise in infrastructure, automation, and security.
              width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
     </a>
 </div>
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
     <a href="https://www.credly.com/badges/20e58b5b-e424-49eb-8d18-e0e8f9a607b5">
         <img src="https://github.com/user-attachments/assets/83845f96-8cbe-4749-871b-631cf5ce29bc" 
              width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
