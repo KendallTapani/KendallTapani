@@ -5,12 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendalltapani/)
 
 </div>
-
-## 👨‍💻 About Me
-
 Tech professional with expertise in infrastructure, automation, and security.
 
-<div align="center">
+<div align="left">
   
 ### 🏆 Certifications
 [View All Certifications on Credly](https://www.credly.com/users/kendall-tapani)
