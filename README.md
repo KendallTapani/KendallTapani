@@ -6,7 +6,8 @@
 
 </div>
 Tech professional with expertise in infrastructure, automation, and security.
-<br/>
+
+
 <div align="left">
   
 [View All Certifications on Credly](https://www.credly.com/users/kendall-tapani)
@@ -48,7 +49,7 @@ Tech professional with expertise in infrastructure, automation, and security.
 
 Showcasing automation tools built with PowerShell and Python.
 
-<div align="center">
+<div align="left">
   
 [![Scripting Repo](https://img.shields.io/badge/📁_Scripting_&_Automation_Repo-4A154B?style=for-the-badge)](https://github.com/KendallTapani/Scripting-and-Automation/tree/main)
 
@@ -58,7 +59,7 @@ Showcasing automation tools built with PowerShell and Python.
 
 Documentation of enterprise-level Azure infrastructure implementation.
 
-<div align="center">
+<div align="left">
   
 [![Azure Docs](https://img.shields.io/badge/📁_Azure_Infrastructure_Docs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/KendallTapani/Azure-Infrastructure-Setup)
 
@@ -66,7 +67,7 @@ Documentation of enterprise-level Azure infrastructure implementation.
 
 ### 3. 🖥️ Windows Server Active Directory Homelab
 
-<div align="center">
+<div align="left">
   
 [![Homelab Docs](https://img.shields.io/badge/📁_Windows_Server_Homelab_Docs-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KendallTapani/Windows-Server-Homelab)
 
