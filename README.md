@@ -6,7 +6,7 @@
 
 </div>
 Tech professional with expertise in infrastructure, automation, and security.
-
+<br/>
 <div align="left">
   
 [View All Certifications on Credly](https://www.credly.com/users/kendall-tapani)
