@@ -43,7 +43,9 @@ Tech professional with expertise in infrastructure, automation, and security.
              width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
     </a>
 </div>
+
 &nbsp;
+
 ## 🛠️ Technical Skills & Projects
 
 ### 1. 🤖 Scripting & Automation
