@@ -94,12 +94,13 @@ Documentation of enterprise-level Azure infrastructure implementation.
 
 ## 🔧 Tools & Technologies
 
-### Network Tools
+### Azure Infrastructure Tools
 
 <div align="left">
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://github.com/user-attachments/assets/b5a6e732-6051-4be4-bd2f-17a7fa02c0dc" height="28" />
+    <img src="https://img.shields.io/badge/-Azure_Active_Directory-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_DevOps-0078D4?&style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Functions-0062AD?&style=for-the-badge&logo=azure-functions&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Virtual_Machines-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 &nbsp;
@@ -110,4 +111,25 @@ Documentation of enterprise-level Azure infrastructure implementation.
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+&nbsp;
+
+### Programming Languages & Frameworks
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?&style=for-the-badge&logo=react&logoColor=black" />
+</div>
+
+&nbsp;
+
+### Database Technologies
+
+<div align="left">
+    <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
