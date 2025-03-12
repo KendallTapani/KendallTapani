@@ -6,7 +6,7 @@
 
 </div>
 
-Tech professional with expertise in infrastructure, automation, and security.
+Tech professional with expertise in secure infrastructure, automation, and security.
 
 <div align="left">
   
