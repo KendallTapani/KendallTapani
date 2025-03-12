@@ -10,7 +10,7 @@ Tech professional with expertise in infrastructure, automation, and security.
 
 <div align="left">
   
-[View All Certifications on Credly](https://www.credly.com/users/kendall-tapani)
+[View All Certifications](https://www.credly.com/users/kendall-tapani)
 
 </div>
 
