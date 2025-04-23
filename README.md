@@ -145,5 +145,4 @@ Documentation of a fully setup AD test environment, with Windows Server 2022, 5+
     <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Power_Automate-0066FF?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
