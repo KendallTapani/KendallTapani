@@ -14,35 +14,7 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
 </div>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
-    <a href="https://www.credly.com/badges/65bef3cc-f0a6-432d-ab68-b553cc151eee">
-        <img src="https://github.com/user-attachments/assets/a1a4113d-3c39-4eac-9efe-2c32410a5fe4" 
-             width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
-    </a>
-    <a href="https://www.credly.com/badges/9fb3d768-c658-48c2-93b2-33105b02036c">
-        <img src="https://github.com/user-attachments/assets/d04244c5-21e7-4bb4-91a3-3923868d8e5a" 
-             width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
-    </a>
-    <a href="https://www.credly.com/badges/7999db2a-e361-42cd-b4a5-866c6e659a88">
-        <img src="https://github.com/user-attachments/assets/1793ed3f-3743-4ed6-b795-bddb831feea2" 
-             width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
-    </a>
-</div>
 
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 20px; margin: 20px 0; justify-content: center;">
-    <a href="https://www.credly.com/badges/20e58b5b-e424-49eb-8d18-e0e8f9a607b5">
-        <img src="https://github.com/user-attachments/assets/83845f96-8cbe-4749-871b-631cf5ce29bc" 
-             width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
-    </a>
-    <a href="https://www.credly.com/badges/0e3d4fd3-0c76-485b-9077-4152c0cbba2a">
-        <img src="https://github.com/user-attachments/assets/d1967870-9749-4033-b160-7c295d85fa8a" 
-             width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
-    </a>
-    <a href="https://www.credly.com/badges/ca6feed5-c7aa-4f64-9385-6fedde615595">
-        <img src="https://github.com/user-attachments/assets/86fbfaeb-864b-4ea4-9f92-d975ff124806" 
-             width="120" height="120" style="clip-path: circle(50%)" alt="Certification Badge" />
-    </a>
-</div>
 
 &nbsp;
 
