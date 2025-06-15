@@ -78,16 +78,6 @@ Documentation of a fully setup AD test environment, with Windows Server 2022, 5+
 
 &nbsp;
 
-### SIEM Tools
-
-<div align="left">
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-&nbsp;
-
 ### Programming Languages & Frameworks
 
 <div align="left">
