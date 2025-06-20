@@ -89,11 +89,11 @@ Documentation of a fully setup AD test environment, with Windows Server 2022, 5+
 
 &nbsp;
 
-### Database Technologies
+### Backend Technologies
 
 <div align="left">
     <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ExpressJS-CC2927?&style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
