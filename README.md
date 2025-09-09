@@ -55,15 +55,6 @@ Documentation of a fully setup AD test environment, with Windows Server 2022, 5+
 
 &nbsp;
 
-### 4. 🌐 Full Home Network Build (In Progress)
-> Building in Cisco Packet Tracer
-
-- **Secure Network Isolation**: Separating internet traffic and implementing threat protection
-- **VLAN Segmentation**: Isolating work, entertainment, and guest networks
-- **Network Services**: DHCP, NAT, and DNS implementation
-- **Advanced Features**: QoS implementation, remote access setup, and network monitoring
-
-&nbsp;
 
 ## 🔧 Tools & Technologies
 
