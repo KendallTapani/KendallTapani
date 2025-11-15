@@ -17,45 +17,6 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
 
 
-## 🛠️ Technical Skills & Projects
-
-### 1. 🤖 Scripting & Automation
-
-Showcasing automation tools built with PowerShell and Python.
-
-<div align="left">
-  
-[![Scripting Repo](https://img.shields.io/badge/📁_Scripting_&_Automation_Repo-4A154B?style=for-the-badge)](https://github.com/KendallTapani/Scripting-and-Automation/tree/main)
-
-</div>
-
-&nbsp;
-
-### 2. ☁️ Enterprise Azure Infrastructure
-
-Documentation of enterprise-level Azure infrastructure implementation.
-
-<div align="left">
-  
-[![Azure Docs](https://img.shields.io/badge/📁_Azure_Infrastructure_Docs-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/KendallTapani/Azure-Infrastructure-Setup)
-
-</div>
-
-&nbsp;
-
-### 3. 🖥️ Windows Server Active Directory Homelab
-
-Documentation of a fully setup AD test environment, with Windows Server 2022, 5+ machines, and 1000+ users in Active directory.
-
-<div align="left">
-  
-[![Homelab Docs](https://img.shields.io/badge/📁_Windows_Server_Homelab_Docs-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/KendallTapani/Windows-Server-Homelab)
-
-</div>
-
-&nbsp;
-
-
 ## 🔧 Tools & Technologies
 
 ### Azure Infrastructure Tools
