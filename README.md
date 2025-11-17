@@ -21,16 +21,6 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
 ## 🔧 Tools & Technologies
 
-### Azure Infrastructure Tools
-
-<div align="left">
-    <img src="https://img.shields.io/badge/-Azure_Active_Directory-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_DevOps-0078D4?&style=for-the-badge&logo=azure-devops&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Functions-0062AD?&style=for-the-badge&logo=azure-functions&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Virtual_Machines-0078D4?&style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-</div>
-
-&nbsp;
 
 ### Programming Languages & Frameworks
 
