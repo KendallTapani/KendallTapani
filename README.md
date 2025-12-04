@@ -60,6 +60,6 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
  - Engineered Talon Software, a scalable platform powering two consumer SaaS products.
 
- - Created a Python tool for extracting words and timestamps from .wav audio files, utilizing libraries like SpeechRecognition and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments, and outputting structured JSON data for integration into transcription pipelines or AI-driven content analysis systems.
+ - Created a Python tool for extracting words and timestamps from .wav audio files, utilizing libraries like Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments, and outputting structured JSON data for integration into transcription pipelines or AI-driven content analysis systems.
 
  - Contributed features to Sketchy by Adversis, including a Git clone hook, added signatures, file ignore feature, and 1 bug fix
