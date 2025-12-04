@@ -50,14 +50,16 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </div>
 
+</br>
+
 ## 🏗️ Running list of Projects & Accomplishments
 
-Developed a custom React-based website for Sodak Construction, featuring responsive design, integrated contact forms, project galleries showcasing construction portfolios, and SEO optimizations to improve visibility for services like general contracting and site development; deployed at sodakcompanies.com using modern hosting solutions for high availability and performance.
+ - Developed a custom React-based website for Sodak Construction, featuring responsive design, integrated contact forms, project galleries showcasing construction portfolios, and SEO optimizations to improve visibility for services like general contracting and site development; deployed at sodakcompanies.com using modern hosting solutions for high availability and performance.
 
-Managed software integrations for TTAP Construction.
+ - Managed software integrations for TTAP Construction.
 
-Engineered Talon Software, a scalable platform powering two consumer SaaS products.
+ - Engineered Talon Software, a scalable platform powering two consumer SaaS products.
 
-Created a Python tool for extracting words and timestamps from .wav audio files, utilizing libraries like SpeechRecognition and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments, and outputting structured JSON data for integration into transcription pipelines or AI-driven content analysis systems.
+ - Created a Python tool for extracting words and timestamps from .wav audio files, utilizing libraries like SpeechRecognition and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments, and outputting structured JSON data for integration into transcription pipelines or AI-driven content analysis systems.
 
-Contributed features to Sketchy by Adversis, including advanced sketching tools with real-time collaboration via WebSockets, layer management for complex illustrations, and export options to vector formats like SVG, enhancing the tool's usability for designers and artists while optimizing performance for low-latency interactions on web browsers.
+ - Contributed features to Sketchy by Adversis, including advanced sketching tools with real-time collaboration via WebSockets, layer management for complex illustrations, and export options to vector formats like SVG, enhancing the tool's usability for designers and artists while optimizing performance for low-latency interactions on web browsers.
