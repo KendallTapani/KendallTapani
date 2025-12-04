@@ -62,4 +62,4 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
  - Created a Python tool for extracting words and timestamps from .wav audio files, utilizing libraries like SpeechRecognition and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments, and outputting structured JSON data for integration into transcription pipelines or AI-driven content analysis systems.
 
- - Contributed features to Sketchy by Adversis, including advanced sketching tools with real-time collaboration via WebSockets, layer management for complex illustrations, and export options to vector formats like SVG, enhancing the tool's usability for designers and artists while optimizing performance for low-latency interactions on web browsers.
+ - Contributed features to Sketchy by Adversis, including a Git clone hook, added signatures, file ignore feature, and 1 bug fix
