@@ -54,12 +54,14 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
 ## 🏗️ Running list of Projects & Accomplishments
 
- - Developed a custom React-based website for Sodak Construction, featuring responsive design, integrated contact forms, project galleries showcasing construction portfolios, and SEO optimizations to improve visibility for services like general contracting and site development; deployed at sodakcompanies.com using modern hosting solutions for high availability and performance.
+ - Developed a custom React-based website for Sodak Construction, featuring responsive design, integrated contacting features, project galleries showcasing construction portfolios, and SEO optimizations to improve visibility for services like general contracting and site development; deployed at sodakcompanies.com using modern hosting solutions for high availability and performance.
 
  - Managed software integrations for TTAP Construction.
 
- - Engineered Talon Software, a scalable platform powering two consumer SaaS products.
+ - Developed 2 Consumer Saas Products, Voiceimpersonator.com, and AccentTrainer.com. VoiceImpersonator.com has been launched and is doing great, AccentTrainer is still in development, but getting Close!
 
- - Created a Python tool for extracting words and timestamps from .wav audio files, utilizing libraries like Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments, and outputting structured JSON data for integration into transcription pipelines or AI-driven content analysis systems.
+ - Created a comprehensive Python tool for the above mentioned Saas products for extracting words and timestamps from .wav audio files, Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments..
 
  - Contributed features to Sketchy by Adversis, including a Git clone hook, added signatures, file ignore feature, and 1 bug fix
+
+ - Currently Building a Knowledge Base Saas with real (useful) AI integrations, Similar to the app Joplin, but actually good. This will be called Maximus, after Maximus Harding and is still in development.
