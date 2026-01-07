@@ -2,8 +2,6 @@
 
 <div align="left">
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-echo@kendalltapani.dev-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echo@kendalltapani.dev)
-
 </div>
 
 Tech professional with expertise in secure infrastructure, automation, and cybersecurity.
