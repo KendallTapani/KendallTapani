@@ -56,12 +56,17 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
  - Developed a custom React-based website for Sodak Construction, featuring responsive design, integrated contacting features, project galleries showcasing construction portfolios, and SEO optimizations to improve visibility for services like general contracting and site development; deployed at sodakcompanies.com using modern hosting solutions for high availability and performance.
 
- - Managed software integrations for TTAP Construction.
+ - Managed software integrations for TTAP Construction. Viewpoint Vista Integrations, Tenna, and Fieldwire.
 
- - Developed 2 Consumer Saas Products, Voiceimpersonator.com, and AccentTrainer.com. VoiceImpersonator.com has been launched and is doing great, AccentTrainer is still in development, but getting Close!
+ - Developed 2 Consumer Saas Products, Voiceimpersonator.com, and AccentTrainer.com. VoiceImpersonator.com is in the process of being rebranded to impressiontraining.com, AccentTrainer is still in development, but getting Close!
 
  - Created a comprehensive Python tool for the above mentioned Saas products for extracting words and timestamps from .wav audio files, Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments..
 
  - Contributed features to Sketchy by Adversis, including a Git clone hook, added signatures, file ignore feature, and 1 bug fix
 
- - Currently Building a Knowledge Base Saas with real (useful) AI integrations, Similar to the app Joplin, but actually good. This will be called Maximus, after Maximus Harding and is still in development.
+
+## Current Projects
+
+ - Building a Knowledge Base Saas with real (useful) AI integrations, Similar to the app Joplin, but actually good. This will be called Maximus, after Maximus Harding and is still in development.
+ - Building a context based scrolling app for finding good restaurants in your area. More than just me on this project
+ - More features for the Sodak Site, and 
