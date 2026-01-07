@@ -9,8 +9,8 @@
 Tech professional with expertise in secure infrastructure, automation, and cybersecurity.
 
 <div align="left">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendalltapani/) &nbsp; [![Certifications](https://img.shields.io/badge/Certifications-View%20All-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kendall-tapani)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendalltapani/) &nbsp; [![Certifications](https://img.shields.io/badge/Certifications--grey?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/kendall-tapani)
 
 </div>
 
