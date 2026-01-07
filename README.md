@@ -4,15 +4,13 @@
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-echo@kendalltapani.dev-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echo@kendalltapani.dev)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendalltapani/)
-
 </div>
 
 Tech professional with expertise in secure infrastructure, automation, and cybersecurity.
 
 <div align="left">
   
-[View All Certifications](https://www.credly.com/users/kendall-tapani)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kendalltapani/)       [View All Certifications](https://www.credly.com/users/kendall-tapani)
 
 </div>
 
