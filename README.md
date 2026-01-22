@@ -74,5 +74,6 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 ## Current Projects
 
  - Building an Assistant Saas with real (useful) AI integrations, the purpose is to give every user the ability to easily tell their computer to do stuff for them. To make it maximally accessible, it works exclusively off the Windows/Linux GUI. This will be called Maximus, after Maximus Harding and is still in development.
+ - Building ProfessionalizeAI, an extension built to polish your emails in the corporate environment before you send them out. 
  - Building a context based scrolling app for finding good restaurants in your area. More than just me on this project
  - More features for the Sodak Site, and TTAP integrations.
