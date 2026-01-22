@@ -43,6 +43,8 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
  - Building a context based scrolling app for finding good restaurants in your area. More than just me on this project
  - More features for the Sodak Site, and TTAP integrations.
 
+</br>
+
 
 
 ## 🔧 Tools & Technologies
