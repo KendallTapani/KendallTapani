@@ -10,7 +10,7 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
 <div align="left">
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-echo@kendalltapani.dev-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:echo@kendalltapani.dev)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-contact@kendalltapani.dev-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@kendalltapani.dev)
 
 </div>
 
