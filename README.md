@@ -27,7 +27,7 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
  - Currently developing Talon V1, a comprehensive AI pipeline, featuring custom tools and integrations, launching in late July, with V2 coming in Mid September..
 
- - Created a comprehensive Python tool for the above mentioned Saas products for extracting words and timestamps from .wav audio files, Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments..
+ - Created a comprehensive Python tool for extracting words and timestamps from .wav audio files, Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments..
 
  - Contributed features to Sketchy by Adversis, including a Git clone hook, added signatures, file ignore feature, and 1 bug fix
 
