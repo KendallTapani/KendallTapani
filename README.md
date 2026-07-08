@@ -30,6 +30,8 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
  - Contributed features to Sketchy by Adversis, including a Git clone hook, added signatures, file ignore feature, and 1 bug fix
 
  - Set up Google Workspace Environment, domain, and Site security for Maatek LLC
+ 
+ - Built out a fully custom Obsidian environment for work, tracking todos, objectives, projects, with a built in file manager repository, all custom coded in Javascript: https://github.com/TalonSoftware-llc/Talon-Obsidian-Setup
 
 
 ## Current Projects
