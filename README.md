@@ -27,7 +27,7 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
  - Created a comprehensive Python tool for extracting words and timestamps from .wav audio files, Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments..
 
- - Contributed features to Sketchy by Adversis, including a Git clone hook, added signatures, file ignore feature, and 1 bug fix
+ - Built custom features at https://github.com/KendallTapani/sketchy_addedfeatures including a Git clone hook, added signatures, file ignore feature, etc
 
  - Set up Google Workspace Environment, domain, and Site security for Maatek LLC
  
