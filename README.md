@@ -27,17 +27,19 @@ Tech professional with expertise in secure infrastructure, automation, and cyber
 
  - Created a comprehensive Python tool for extracting words and timestamps from .wav audio files, Openai Whisper and pydub for audio processing, implementing noise reduction algorithms to improve accuracy in noisy environments..
 
- - Built custom features at https://github.com/KendallTapani/sketchy_addedfeatures including a Git clone hook, added signatures, file ignore feature, etc
-
  - Set up Google Workspace Environment, domain, and Site security for Maatek LLC
  
  - Built out a fully custom Obsidian environment for work, tracking todos, objectives, projects, with a built in file manager repository, all custom coded in Javascript: https://github.com/TalonSoftware-llc/Talon-Obsidian-Setup
 
+ - Completed Network Security Audit for Atlas Mechanical
+
+ - Completed Application Security work for Adversis.
+
 
 ## Current Projects
 
- - Ongoing Application Security Contract work for Adversis
- - Currently developing Talon V1, a comprehensive AI pipeline, featuring custom tools and integrations, launching in late July, with V2 coming in Mid September..
+ - AI data analysis and processing setups for Talon Software
+ - Application security training on Portswigger Web Security Academy
 
 
 </br>
